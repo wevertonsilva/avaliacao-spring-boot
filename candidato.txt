@@ -1,0 +1,7 @@
+Weverton da Silva Tavares dos Santos
+
+Informações sobre o projeto:
+
+Eu optei por implementar as configurações RESTful, para acessar as informações basta iniciar o servidor e utilizar o postman ou qualquer outra ferramenta que faça requisições HTTP.
+
+O projeto está configurado para rodar na porta 8081, então basta acessar http://localhost:8081/estudanteRest
