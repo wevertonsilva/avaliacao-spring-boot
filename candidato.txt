@@ -5,3 +5,5 @@ Informações sobre o projeto:
 Eu optei por implementar as configurações RESTful, para acessar as informações basta iniciar o servidor e utilizar o postman ou qualquer outra ferramenta que faça requisições HTTP.
 
 O projeto está configurado para rodar na porta 8081, então basta acessar http://localhost:8081/estudanteRest
+
+Caso ocorra algum problema ao subir a aplicação, favor verificar como foi criada a estrutura do banco de dados e alterar o arquivo "import.sql". Para assegurar ainda mais o funcionamento, é possível optar por retirar todos os inserts do "import.sql", subir o servidor e utilizar o metodo POST para criar novos estudantes.
